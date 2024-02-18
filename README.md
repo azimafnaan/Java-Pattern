@@ -4,7 +4,7 @@ Basic and Advance Pattern (Java Programming Language)
 
 # Basic Pattern
 
-- Star Pattern [Code](D:\Coding\Java-Pattern\Basic-Pattern\StarPattern)
+- Star Pattern
 
 ```
 *
