@@ -30,3 +30,12 @@ Basic and Advance Pattern (Java Programming Language)
 123
 1234
 ```
+
+- Character Pattern
+
+```
+A
+BC
+DEF
+GHIJ
+```
