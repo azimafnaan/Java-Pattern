@@ -4,7 +4,7 @@ Basic and Advance Pattern (Java Programming Language)
 
 # Basic Pattern
 
-- Star Pattern [Code](Basic-Pattern\StarPattern\StarPattern.java)
+- Star Pattern [Code](Basic-Pattern\StarPattern)
 
 ```
 *
