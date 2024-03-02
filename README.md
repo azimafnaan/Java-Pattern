@@ -41,3 +41,12 @@ GHIJ
 ```
 
 # Advance Pattern
+
+- Hollow Rectangle Pattern
+
+```
+*****
+*   *
+*   *
+*****
+```

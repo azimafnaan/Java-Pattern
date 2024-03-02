@@ -1,3 +1,12 @@
+/*
+Print Hollow Rectangle Pattern
+*****
+*   *
+*   *
+***** 
+
+*/
+
 public class HollowRectanglePattern {
     public static void hollo_rectangle(int totalRows, int totalCols) {
         // OuterLoop
