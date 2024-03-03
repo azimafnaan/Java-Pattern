@@ -50,3 +50,12 @@ GHIJ
 *   *
 *****
 ```
+
+- Inverted & Rotated Half Pyramid
+
+```
+   *
+  **
+ ***
+****
+```
